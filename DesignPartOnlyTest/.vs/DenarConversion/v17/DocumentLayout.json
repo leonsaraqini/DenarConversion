@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Leon\\source\\repos\\DesignPartOnlyTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{09C89323-64A2-47CB-B0A1-19F583654789}|DesignPartOnlyTest\\DenarConversion.csproj|c:\\users\\leon\\source\\repos\\designpartonlytest\\designpartonlytest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{09C89323-64A2-47CB-B0A1-19F583654789}|DesignPartOnlyTest\\DenarConversion.csproj|solutionrelative:designpartonlytest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09C89323-64A2-47CB-B0A1-19F583654789}|DesignPartOnlyTest\\DenarConversion.csproj|c:\\users\\leon\\source\\repos\\designpartonlytest\\designpartonlytest\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09C89323-64A2-47CB-B0A1-19F583654789}|DesignPartOnlyTest\\DenarConversion.csproj|solutionrelative:designpartonlytest\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09C89323-64A2-47CB-B0A1-19F583654789}|DesignPartOnlyTest\\DenarConversion.csproj|c:\\users\\leon\\source\\repos\\designpartonlytest\\designpartonlytest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{09C89323-64A2-47CB-B0A1-19F583654789}|DesignPartOnlyTest\\DenarConversion.csproj|C:\\Users\\Leon\\source\\repos\\DesignPartOnlyTest\\designpartonlytest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09C89323-64A2-47CB-B0A1-19F583654789}|DesignPartOnlyTest\\DenarConversion.csproj|solutionrelative:designpartonlytest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09C89323-64A2-47CB-B0A1-19F583654789}|DesignPartOnlyTest\\DesignPartOnlyTest.csproj|C:\\Users\\Leon\\source\\repos\\DesignPartOnlyTest\\designpartonlytest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09C89323-64A2-47CB-B0A1-19F583654789}|DesignPartOnlyTest\\DesignPartOnlyTest.csproj|solutionrelative:designpartonlytest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09C89323-64A2-47CB-B0A1-19F583654789}|DesignPartOnlyTest\\DenarConversion.csproj|c:\\users\\leon\\source\\repos\\designpartonlytest\\designpartonlytest\\editcurrencylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C89323-64A2-47CB-B0A1-19F583654789}|DesignPartOnlyTest\\DenarConversion.csproj|solutionrelative:designpartonlytest\\editcurrencylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{09C89323-64A2-47CB-B0A1-19F583654789}|DesignPartOnlyTest\\DesignPartOnlyTest.csproj|C:\\Users\\Leon\\source\\repos\\DesignPartOnlyTest\\designpartonlytest\\editcurrencylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09C89323-64A2-47CB-B0A1-19F583654789}|DesignPartOnlyTest\\DesignPartOnlyTest.csproj|solutionrelative:designpartonlytest\\editcurrencylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C89323-64A2-47CB-B0A1-19F583654789}|DesignPartOnlyTest\\DenarConversion.csproj|c:\\users\\leon\\source\\repos\\designpartonlytest\\designpartonlytest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09C89323-64A2-47CB-B0A1-19F583654789}|DesignPartOnlyTest\\DenarConversion.csproj|solutionrelative:designpartonlytest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C89323-64A2-47CB-B0A1-19F583654789}|DesignPartOnlyTest\\DesignPartOnlyTest.csproj|C:\\Users\\Leon\\source\\repos\\DesignPartOnlyTest\\designpartonlytest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C89323-64A2-47CB-B0A1-19F583654789}|DesignPartOnlyTest\\DesignPartOnlyTest.csproj|solutionrelative:designpartonlytest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{09C89323-64A2-47CB-B0A1-19F583654789}|DesignPartOnlyTest\\DesignPartOnlyTest.csproj|C:\\Users\\Leon\\source\\repos\\DesignPartOnlyTest\\designpartonlytest\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Leon\\source\\repos\\DesignPartOnlyTest\\DesignPartOnlyTest\\Form1.cs",
               "RelativeDocumentMoniker": "DesignPartOnlyTest\\Form1.cs",
@@ -60,32 +60,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-22T13:41:23.321Z",
               "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Leon\\source\\repos\\DesignPartOnlyTest\\DesignPartOnlyTest\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "DesignPartOnlyTest\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\Leon\\source\\repos\\DesignPartOnlyTest\\DesignPartOnlyTest\\Form1.Designer.cs",
-              "RelativeToolTip": "DesignPartOnlyTest\\Form1.Designer.cs",
-              "ViewState": "AQIAAJsAAAAAAAAAAAAAwKgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T20:05:07.585Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Leon\\source\\repos\\DesignPartOnlyTest\\DesignPartOnlyTest\\Form1.cs",
-              "RelativeDocumentMoniker": "DesignPartOnlyTest\\Form1.cs",
-              "ToolTip": "C:\\Users\\Leon\\source\\repos\\DesignPartOnlyTest\\DesignPartOnlyTest\\Form1.cs",
-              "RelativeToolTip": "DesignPartOnlyTest\\Form1.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAQwEAAAABLAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T20:04:40.91Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -113,7 +87,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditCurrencyList.cs",
+              "DocumentMoniker": "C:\\Users\\Leon\\source\\repos\\DesignPartOnlyTest\\DesignPartOnlyTest\\EditCurrencyList.cs",
+              "RelativeDocumentMoniker": "DesignPartOnlyTest\\EditCurrencyList.cs",
+              "ToolTip": "C:\\Users\\Leon\\source\\repos\\DesignPartOnlyTest\\DesignPartOnlyTest\\EditCurrencyList.cs",
+              "RelativeToolTip": "DesignPartOnlyTest\\EditCurrencyList.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T20:14:25.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Leon\\source\\repos\\DesignPartOnlyTest\\DesignPartOnlyTest\\Form1.cs",
+              "RelativeDocumentMoniker": "DesignPartOnlyTest\\Form1.cs",
+              "ToolTip": "C:\\Users\\Leon\\source\\repos\\DesignPartOnlyTest\\DesignPartOnlyTest\\Form1.cs",
+              "RelativeToolTip": "DesignPartOnlyTest\\Form1.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwDcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T20:04:40.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Leon\\source\\repos\\DesignPartOnlyTest\\DesignPartOnlyTest\\Form1.cs",
               "RelativeDocumentMoniker": "DesignPartOnlyTest\\Form1.cs",
@@ -125,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "EditCurrencyList.cs",
               "DocumentMoniker": "C:\\Users\\Leon\\source\\repos\\DesignPartOnlyTest\\DesignPartOnlyTest\\EditCurrencyList.cs",
               "RelativeDocumentMoniker": "DesignPartOnlyTest\\EditCurrencyList.cs",

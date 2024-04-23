@@ -50,9 +50,17 @@ namespace DesignPartOnlyTest
         {
             string currencyText = lbCurrencies.Items[lbCurrencies.SelectedIndex].ToString();
             double currencyValue = getCurrencyValue(currencyText);
-            
+
+            if (!double.TryParse(tbDenarValue.Text, out double error))
+            {
+                tbCurrencyValue.Text = "Enter the right value";
+                return;
+            };
+
             if (!String.IsNullOrEmpty(tbDenarValue.Text))
                 tbCurrencyValue.Text = (currencyValue * double.Parse(tbDenarValue.Text)).ToString();
+
+            
         }
 
         private void lbCurrencies_SelectedIndexChanged(object sender, EventArgs e)
