@@ -8,4 +8,4 @@ It also lets you change the value of any given curreny, as well as remove one of
 
 In the installApp folder you can find the installer for the app itself.
 
-In the codeOfApp folder I have put the whole source code of the app, all done using Windows Forms App (.NET Framework) in C# language.
+In the DesignPartOnlyTest folder I have put the whole source code of the app, all done using Windows Forms App (.NET Framework) in C# language.
