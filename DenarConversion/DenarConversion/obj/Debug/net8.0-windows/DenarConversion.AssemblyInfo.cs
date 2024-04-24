@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DenarConversion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af745a32f1d1cbd0f9094d1e1121bd16297a128e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5455b78b34e31651d5d1c13f646370faf111f424")]
 [assembly: System.Reflection.AssemblyProductAttribute("DenarConversion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DenarConversion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

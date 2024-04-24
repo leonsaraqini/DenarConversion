@@ -1,34 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Leon\\source\\repos\\DenarConversion\\",
+  "WorkspaceRootPath": "C:\\GitHubDesktopSrc\\DenarConversion\\DenarConversion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2FB06F0-A648-4862-9CC9-2219518F95FC}|DenarConversion\\DenarConversion.csproj|c:\\users\\leon\\source\\repos\\denarconversion\\denarconversion\\addnewcurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F2FB06F0-A648-4862-9CC9-2219518F95FC}|DenarConversion\\DenarConversion.csproj|c:\\githubdesktopsrc\\denarconversion\\denarconversion\\denarconversion\\addnewcurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FB06F0-A648-4862-9CC9-2219518F95FC}|DenarConversion\\DenarConversion.csproj|solutionrelative:denarconversion\\addnewcurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FB06F0-A648-4862-9CC9-2219518F95FC}|DenarConversion\\DenarConversion.csproj|c:\\githubdesktopsrc\\denarconversion\\denarconversion\\denarconversion\\addnewcurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F2FB06F0-A648-4862-9CC9-2219518F95FC}|DenarConversion\\DenarConversion.csproj|solutionrelative:denarconversion\\addnewcurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2FB06F0-A648-4862-9CC9-2219518F95FC}|DenarConversion\\DenarConversion.csproj|c:\\users\\leon\\source\\repos\\denarconversion\\denarconversion\\editcurrencylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F2FB06F0-A648-4862-9CC9-2219518F95FC}|DenarConversion\\DenarConversion.csproj|C:\\GitHubDesktopSrc\\DenarConversion\\DenarConversion\\denarconversion\\editcurrencylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F2FB06F0-A648-4862-9CC9-2219518F95FC}|DenarConversion\\DenarConversion.csproj|solutionrelative:denarconversion\\editcurrencylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2FB06F0-A648-4862-9CC9-2219518F95FC}|DenarConversion\\DenarConversion.csproj|c:\\users\\leon\\source\\repos\\denarconversion\\denarconversion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F2FB06F0-A648-4862-9CC9-2219518F95FC}|DenarConversion\\DenarConversion.csproj|C:\\GitHubDesktopSrc\\DenarConversion\\DenarConversion\\denarconversion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F2FB06F0-A648-4862-9CC9-2219518F95FC}|DenarConversion\\DenarConversion.csproj|solutionrelative:denarconversion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2FB06F0-A648-4862-9CC9-2219518F95FC}|DenarConversion\\DenarConversion.csproj|c:\\users\\leon\\source\\repos\\denarconversion\\denarconversion\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2FB06F0-A648-4862-9CC9-2219518F95FC}|DenarConversion\\DenarConversion.csproj|c:\\githubdesktopsrc\\denarconversion\\denarconversion\\denarconversion\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2FB06F0-A648-4862-9CC9-2219518F95FC}|DenarConversion\\DenarConversion.csproj|solutionrelative:denarconversion\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2FB06F0-A648-4862-9CC9-2219518F95FC}|DenarConversion\\DenarConversion.csproj|c:\\users\\leon\\source\\repos\\denarconversion\\denarconversion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2FB06F0-A648-4862-9CC9-2219518F95FC}|DenarConversion\\DenarConversion.csproj|c:\\githubdesktopsrc\\denarconversion\\denarconversion\\denarconversion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2FB06F0-A648-4862-9CC9-2219518F95FC}|DenarConversion\\DenarConversion.csproj|solutionrelative:denarconversion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2FB06F0-A648-4862-9CC9-2219518F95FC}|DenarConversion\\DenarConversion.csproj|c:\\users\\leon\\source\\repos\\denarconversion\\denarconversion\\editcurrencylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2FB06F0-A648-4862-9CC9-2219518F95FC}|DenarConversion\\DenarConversion.csproj|c:\\githubdesktopsrc\\denarconversion\\denarconversion\\denarconversion\\editcurrencylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2FB06F0-A648-4862-9CC9-2219518F95FC}|DenarConversion\\DenarConversion.csproj|solutionrelative:denarconversion\\editcurrencylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2FB06F0-A648-4862-9CC9-2219518F95FC}|DenarConversion\\DenarConversion.csproj|c:\\users\\leon\\source\\repos\\denarconversion\\denarconversion\\addnewcurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2FB06F0-A648-4862-9CC9-2219518F95FC}|DenarConversion\\DenarConversion.csproj|solutionrelative:denarconversion\\addnewcurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,11 +66,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "EditCurrencyList.cs",
-              "DocumentMoniker": "C:\\Users\\Leon\\source\\repos\\DenarConversion\\DenarConversion\\EditCurrencyList.cs",
+              "DocumentMoniker": "C:\\GitHubDesktopSrc\\DenarConversion\\DenarConversion\\DenarConversion\\EditCurrencyList.cs",
               "RelativeDocumentMoniker": "DenarConversion\\EditCurrencyList.cs",
-              "ToolTip": "C:\\Users\\Leon\\source\\repos\\DenarConversion\\DenarConversion\\EditCurrencyList.cs",
+              "ToolTip": "C:\\GitHubDesktopSrc\\DenarConversion\\DenarConversion\\DenarConversion\\EditCurrencyList.cs",
               "RelativeToolTip": "DenarConversion\\EditCurrencyList.cs",
               "ViewState": "AQIAAB8AAAAAAAAAAAAAADcAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -79,23 +79,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EditCurrencyList.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Leon\\source\\repos\\DenarConversion\\DenarConversion\\EditCurrencyList.cs",
+              "DocumentMoniker": "C:\\GitHubDesktopSrc\\DenarConversion\\DenarConversion\\DenarConversion\\EditCurrencyList.cs",
               "RelativeDocumentMoniker": "DenarConversion\\EditCurrencyList.cs",
               "ToolTip": "C:\\Users\\Leon\\source\\repos\\DenarConversion\\DenarConversion\\EditCurrencyList.cs [Design]",
-              "RelativeToolTip": "DenarConversion\\EditCurrencyList.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Users\\Leon\\source\\repos\\DenarConversion\\DenarConversion\\EditCurrencyList.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T07:37:45.634Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-24T07:37:45.634Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "AddNewCurrency.cs",
-              "DocumentMoniker": "C:\\Users\\Leon\\source\\repos\\DenarConversion\\DenarConversion\\AddNewCurrency.cs",
+              "DocumentMoniker": "C:\\GitHubDesktopSrc\\DenarConversion\\DenarConversion\\DenarConversion\\AddNewCurrency.cs",
               "RelativeDocumentMoniker": "DenarConversion\\AddNewCurrency.cs",
-              "ToolTip": "C:\\Users\\Leon\\source\\repos\\DenarConversion\\DenarConversion\\AddNewCurrency.cs",
+              "ToolTip": "C:\\GitHubDesktopSrc\\DenarConversion\\DenarConversion\\DenarConversion\\AddNewCurrency.cs",
               "RelativeToolTip": "DenarConversion\\AddNewCurrency.cs",
               "ViewState": "AQIAACIAAAAAAAAAAAAowDsAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -104,11 +103,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AddNewCurrency.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Leon\\source\\repos\\DenarConversion\\DenarConversion\\AddNewCurrency.cs",
+              "DocumentMoniker": "C:\\GitHubDesktopSrc\\DenarConversion\\DenarConversion\\DenarConversion\\AddNewCurrency.cs",
               "RelativeDocumentMoniker": "DenarConversion\\AddNewCurrency.cs",
-              "ToolTip": "C:\\Users\\Leon\\source\\repos\\DenarConversion\\DenarConversion\\AddNewCurrency.cs [Design]",
+              "ToolTip": "C:\\GitHubDesktopSrc\\DenarConversion\\DenarConversion\\DenarConversion\\AddNewCurrency.cs [Design]",
               "RelativeToolTip": "DenarConversion\\AddNewCurrency.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-24T07:21:28.038Z",
@@ -116,24 +115,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Currency.cs",
-              "DocumentMoniker": "C:\\Users\\Leon\\source\\repos\\DenarConversion\\DenarConversion\\Currency.cs",
+              "DocumentMoniker": "C:\\GitHubDesktopSrc\\DenarConversion\\DenarConversion\\DenarConversion\\Currency.cs",
               "RelativeDocumentMoniker": "DenarConversion\\Currency.cs",
-              "ToolTip": "C:\\Users\\Leon\\source\\repos\\DenarConversion\\DenarConversion\\Currency.cs",
+              "ToolTip": "C:\\GitHubDesktopSrc\\DenarConversion\\DenarConversion\\DenarConversion\\Currency.cs",
               "RelativeToolTip": "DenarConversion\\Currency.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T07:10:32.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-24T07:10:32.945Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Leon\\source\\repos\\DenarConversion\\DenarConversion\\Form1.cs",
+              "DocumentMoniker": "C:\\GitHubDesktopSrc\\DenarConversion\\DenarConversion\\DenarConversion\\Form1.cs",
               "RelativeDocumentMoniker": "DenarConversion\\Form1.cs",
-              "ToolTip": "C:\\Users\\Leon\\source\\repos\\DenarConversion\\DenarConversion\\Form1.cs",
+              "ToolTip": "C:\\GitHubDesktopSrc\\DenarConversion\\DenarConversion\\DenarConversion\\Form1.cs",
               "RelativeToolTip": "DenarConversion\\Form1.cs",
               "ViewState": "AQIAAFsAAAAAAAAAAAAAAGwAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -142,15 +140,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Leon\\source\\repos\\DenarConversion\\DenarConversion\\Form1.cs",
+              "DocumentMoniker": "C:\\GitHubDesktopSrc\\DenarConversion\\DenarConversion\\DenarConversion\\Form1.cs",
               "RelativeDocumentMoniker": "DenarConversion\\Form1.cs",
               "ToolTip": "C:\\Users\\Leon\\source\\repos\\DenarConversion\\DenarConversion\\Form1.cs [Design]",
-              "RelativeToolTip": "DenarConversion\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Users\\Leon\\source\\repos\\DenarConversion\\DenarConversion\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T06:49:50.347Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-24T06:49:50.347Z"
             }
           ]
         }
