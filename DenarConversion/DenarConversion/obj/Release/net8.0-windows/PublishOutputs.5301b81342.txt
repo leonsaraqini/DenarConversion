@@ -1,0 +1,5 @@
+C:\Users\Leon\Desktop\DenarConversion.exe
+C:\Users\Leon\Desktop\DenarConversion.dll
+C:\Users\Leon\Desktop\DenarConversion.deps.json
+C:\Users\Leon\Desktop\DenarConversion.runtimeconfig.json
+C:\Users\Leon\Desktop\DenarConversion.pdb
